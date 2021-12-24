@@ -1,0 +1,3 @@
+﻿  ASD9.cpp
+C:\Users\Lera\source\repos\ASD9\ASD9\ASD9.cpp(31,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ASD9.vcxproj -> C:\Users\Lera\source\repos\ASD9\Debug\ASD9.exe
